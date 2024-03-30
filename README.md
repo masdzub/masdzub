@@ -1,12 +1,13 @@
 
 ### Hi there, I'm [Dzubayyan Ahmad](https://github.com/masdzub) 👋
 
-I'm a passionate coder, open-source enthusiast, and tech aficionado. 
+I'm a dedicated System Administrator with a passion for optimizing infrastructures, ensuring system reliability, and solving complex technical challenges. 
+As an open-source enthusiast and tech aficionado, I thrive on exploring innovative solutions to streamline operations and enhance system performance.
 Here's a glimpse of my skills I'm proud of.
 
 ```bash
 $ whoami
-> Sr. Technical Support Specialist.
+> System Administrator
 $ echo "I love coding in Bash, Python, JavaScript, and MarkDown."
 > I love coding in Bash, Python, JavaScript and MarkDown.
 ```
@@ -24,7 +25,7 @@ $ echo "Tools: $tools"
 
 ### 🌐 Connect with Me
 
-- 📫 Email: hello@masdzub.com
+- 📫 Email: [hello@masdzub.com](mailto:hello@masdzub.com)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/masdzub/)
 - 🐦 Twitter: [@masdzub](https://twitter.com/masdzub)
 - 🌐 Website: [masdzub.com](https://masdzub.com)
@@ -35,7 +36,7 @@ $ echo "Tools: $tools"
 ```bash
 $ learn="Technical Support, DevOps, Cloud Computing, Sysadmin, Web Services "
 $ echo "Currently learning: $learn"
-> Currently learning: Machine Learning, DevOps, Cloud Computing, Sysadmin, Web Services
+> Currently learning: DevOps, Cloud Computing, Sysadmin, Web Services, Windows Server, Linux Server
 ```
 
 I'm always eager to learn and stay updated with the latest technologies.
