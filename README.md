@@ -36,7 +36,7 @@ $ echo "Tools: $tools"
 ```bash
 $ learn="Technical Support, DevOps, Cloud Computing, Sysadmin, Web Services "
 $ echo "Currently learning: $learn"
-> Currently learning: DevOps, Cloud Computing, Sysadmin, Web Services, Windows Server, Linux Server
+> Currently learning: DevOps, Cloud Computing, Sysadmin, Web Services, Windows Server, Linux Server, Vitualization
 ```
 
 I'm always eager to learn and stay updated with the latest technologies.
