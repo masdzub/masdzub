@@ -48,4 +48,5 @@ $ exit 0
 ```
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masdzub&label=Profile%20views&color=0e75b6&style=flat" alt="masdzub" /> </p>
+[![wakatime](https://wakatime.com/badge/user/018c865c-c230-4f3e-b419-49dad69aab1d.svg)](https://wakatime.com/@018c865c-c230-4f3e-b419-49dad69aab1d) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masdzub&label=Profile%20views&color=0e75b6&style=flat" alt="masdzub" /> </p> 
